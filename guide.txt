@@ -1,0 +1,43 @@
+
+==============================
+HƯỚNG DẪN SỬ DỤNG PHẦN MỀM TAPHOAVN
+==============================
+
+1. Khởi động phần mềm
+---------------------------------
+- Sau khi cài đặt xong, chạy icon phần mềm được tạo trên Desktop.
+
+2. Đăng ký tài khoản cửa hàng
+---------------------------------
+- Đặt username là tên cửa hàng.
+- Nhập password, số điện thoại, địa chỉ.
+- Các thông tin này sẽ hiển thị trên website bán hàng của bạn.
+
+3. Nhập sản phẩm vào kho
+---------------------------------
+- Sử dụng máy quét mã vạch để nhập sản phẩm vào kho.
+- Điền đầy đủ thông tin: giá cả, hình ảnh sản phẩm, mô tả...
+- Giúp quá trình bán hàng nhanh chóng và chính xác.
+
+4. Thiết lập máy in nhiệt
+---------------------------------
+- Chọn khổ giấy phù hợp, nhấn **Save** để lưu cấu hình.
+- Lần sau phần mềm sẽ tự động in ra máy in đã thiết lập.
+
+5. Thiết lập slider quảng cáo cho website
+---------------------------------
+- Thêm các hình ảnh quảng cáo, khuyến mãi, giảm giá sản phẩm vào slider.
+- Hình ảnh sẽ chạy tự động trên website để thu hút khách hàng.
+
+6. Khởi động website bán hàng
+---------------------------------
+- Bấm **Start Web** để khởi động website.
+- Truy cập vào địa chỉ: https://yourdomain để kiểm tra hoạt động của web.
+
+---------------------------------
+Lưu ý:
+- Đảm bảo đã nhập đầy đủ thông tin cửa hàng và sản phẩm trước khi bán hàng.
+- Kiểm tra kết nối máy in nhiệt và máy quét mã vạch trước khi sử dụng.
+
+Chúc bạn sử dụng phần mềm hiệu quả và thành công!
+

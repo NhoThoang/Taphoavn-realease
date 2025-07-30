@@ -1,5 +1,7 @@
 # TAPHOAVN - Phần Mềm Bán Hàng Đa Năng
-
+> **Lưu ý:**
+> 
+> Phần mềm chỉ hoạt động trên máy tính chạy **Windows**. Các hệ điều hành khác (macOS, Linux, v.v.) hiện **không hỗ trợ**.
 ## Giao Diện Phần Mềm
 
 
@@ -67,7 +69,7 @@
 ## Liên Hệ & Hỗ Trợ
 
 - **Tác giả:** [NhoThoang](https://github.com/NhoThoang)
-- **Email:** your-email@example.com
+- **Email:** nhothoang@gmail.com
 - **Website:** Đang cập nhật
 
 ---

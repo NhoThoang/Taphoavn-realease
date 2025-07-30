@@ -1,0 +1,58 @@
+
+==============================
+HƯỚNG DẪN CÀI ĐẶT PHẦN MỀM TAPHOAVN
+==============================
+
+1. Cài đặt MySQL Server
+---------------------------------
+- Phần mềm sử dụng cơ sở dữ liệu MySQL, bạn cần cài đặt MySQL Server trước.
+- Link tải MySQL: https://dev.mysql.com/downloads/file/?id=542923
+- Sau khi cài đặt, hãy ghi nhớ **username** và **password** để sử dụng cho phần mềm.
+
+2. Tải và cài đặt phần mềm Taphoavn
+---------------------------------
+- Tải file cài đặt tại: https://github.com/NhoThoang/Taphoavn-realease/releases/download/v1.0.0/install_taphoavn.exe
+- Lưu ý: Phần mềm hiện đang miễn phí và chưa có chữ ký số, một số phần mềm diệt virus có thể nhận nhầm là phần mềm độc hại.
+- Trước khi cài đặt, **hãy tắt phần mềm diệt virus** để tránh bị chặn cài đặt.
+
+3. Thiết lập kết nối cơ sở dữ liệu
+---------------------------------
+- Sau khi tải về, nhấn vào file để chạy.
+- Click vào nút **Setup Database**.
+- Điền đầy đủ thông tin:
+    - **Port**: Thường là 3306
+    - **Username**: Tên đăng nhập MySQL
+    - **Password**: Mật khẩu MySQL
+    - **Database Name**: Tùy ý, viết liền không dấu (ví dụ: taphoavn)
+- Nhấn **Connect**. Nếu báo "Connect Success" thì nút cài đặt sẽ được kích hoạt.
+
+4. Tiến hành cài đặt
+---------------------------------
+- Nhấn nút **Cài đặt** để tải file cài về máy và tiến hành cài đặt.
+- Đảm bảo máy tính có kết nối mạng trong quá trình cài đặt.
+
+5. Khởi động phần mềm
+---------------------------------
+- Sau khi cài đặt thành công, ra ngoài Desktop để chạy ứng dụng.
+- Xem hướng dẫn sử dụng chi tiết trong file **guide.txt**.
+
+---------------------------------
+
+6. Hướng dẫn bán hàng online qua Cloud Tunnel
+---------------------------------
+- Nếu bạn muốn bán hàng online, bạn cần có một **domain** riêng và cài đặt Cloud Tunnel.
+- Tải Cloud Tunnel tại:
+    https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-windows-amd64.exe
+    (Lưu ý: Link trên là cho Windows. Nếu dùng hệ điều hành khác, hãy chọn bản phù hợp trên trang Cloudflare.)
+- Sau khi tải về, tiến hành cài đặt Cloud Tunnel.
+- Thiết lập Cloudflare để public port **5000** ra ngoài internet.
+    - Đăng nhập vào tài khoản Cloudflare.
+    - Thêm domain của bạn vào Cloudflare.
+    - Cấu hình Tunnel để chuyển tiếp port 5000 từ máy tính lên internet.
+- Khi hoàn tất, website bán hàng của bạn sẽ được public và khách hàng có thể truy cập từ xa qua domain.
+
+Lưu ý:
+- Đảm bảo tắt phần mềm diệt virus trước khi cài đặt.
+- Ghi nhớ thông tin đăng nhập MySQL để sử dụng cho phần mềm.
+
+Chúc bạn cài đặt và sử dụng phần mềm thành công!
