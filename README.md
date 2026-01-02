@@ -71,7 +71,7 @@
 - **Tác giả:** [NhoThoang](https://github.com/NhoThoang)
 - **Email:** nhothoang@gmail.com
 - **Website:** Đang cập nhật
-
+  Đây là bản free cho các nhân nghiêm cấm các hành vi sửa đổi web rồi bán lại cho người khác nếu vi phạm sẽ bị sử lý theo pháp luật
 ---
 
 > **TAPHOAVN** - Giải pháp bán hàng toàn diện, giúp bạn quản lý kinh doanh hiệu quả, tiết kiệm thời gian, tăng lợi nhuận và kiểm soát rủi ro!
