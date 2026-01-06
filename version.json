@@ -1,7 +1,7 @@
 {
   "url_version": "https://github.com/NhoThoang/Taphoavn-realease/releases/download/v1.0.5/app_realeaseV1.0.5.zip",
   "url_database": "https://dev.mysql.com/get/Downloads/MySQL-8.4/mysql-8.4.7-winx64.msi",
-  "url_web_server": "https://github.com/NhoThoang/Taphoavn-realease/releases/download/v1.0.9/web_flask_serverV1.0.9.zip",
+  "url_web_server": "https://github.com/NhoThoang/Taphoavn-realease/releases/download/v1.1.0/web_flask_serverV1.1.0.zip",
   "url_app": "https://github.com/NhoThoang/Taphoavn-realease/releases/download/v1.0.9/taphoavn.exe",
   "version": "1.0.9"
 }
