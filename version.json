@@ -3,5 +3,5 @@
   "url_database": "https://dev.mysql.com/get/Downloads/MySQL-8.4/mysql-8.4.7-winx64.msi",
   "url_web_server": "https://github.com/NhoThoang/Taphoavn-realease/releases/download/v1.1.1/web_flask_serverV1.1.1.zip",
   "url_app": "https://github.com/NhoThoang/Taphoavn-realease/releases/download/v1.1.1/taphoavn.exe",
-  "version": "1.1."
+  "version": "1.1.1"
 }
