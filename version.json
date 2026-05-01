@@ -3,5 +3,5 @@
   "url_database": "https://dev.mysql.com/get/Downloads/MySQL-8.4/mysql-8.4.7-winx64.msi",
   "url_web_server": "",
   "url_app": "https://github.com/NhoThoang/Taphoavn-realease/releases/download/v2.0.3/taphoavn.exe",
-  "version": "2.0.0"
+  "version": "2.0.2"
 }
